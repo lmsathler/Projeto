@@ -1,5 +1,5 @@
 # Projeto
-O Projeto animal, é sobre uma "Fazenda" e nela existe os animais : Pato, Galinha, Morcego e Vaca.
+O Projeto animal, é sobre uma "Fazenda", e nela existe os animais : Pato, Galinha, Morcego e Vaca.
 
 A ideia dele é executar informações sobre o mesmo.
 
